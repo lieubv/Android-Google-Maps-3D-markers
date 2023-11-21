@@ -1,0 +1,10 @@
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/Extensions.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/components/map/AnimationQueue.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/components/map/marker/MarkerView.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/CarType.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/components/map/marker/CarRotation3DMarkerView.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/MainActivity.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/models/LocationUpdate.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/components/map/MapOverlayLayout.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/LatLngInterpolator.kt
+/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/java/com/lucasrodrigues/a3dmarkertest/components/map/Rotation3DComponent.kt

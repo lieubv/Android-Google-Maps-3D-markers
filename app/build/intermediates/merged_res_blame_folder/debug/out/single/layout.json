@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/map_overlay_marker.xml",
+        "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/layout/map_overlay_marker.xml"
+    },
+    {
+        "merged": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/map_overlay_car_marker.xml",
+        "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/layout/map_overlay_car_marker.xml"
+    },
+    {
+        "merged": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/layout/activity_main.xml"
+    }
+]

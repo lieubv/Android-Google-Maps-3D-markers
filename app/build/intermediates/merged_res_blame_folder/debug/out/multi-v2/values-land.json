@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/alex/.gradle/caches/transforms-3/e6c3db6cef924e68aed63ced02885c5d/transformed/appcompat-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,173",
+                        "endColumns": "57,59,55",
+                        "endOffsets": "108,168,224"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "264,322,382",
+                        "endColumns": "57,59,55",
+                        "endOffsets": "317,377,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

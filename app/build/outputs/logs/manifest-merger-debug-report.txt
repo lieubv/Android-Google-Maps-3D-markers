@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/alex/.gradle/caches/transforms-3/2ec13bb18986eca1b1a72589a5114b02/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.afollestad.material-dialogs:color:3.1.0] /Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.afollestad:viewpagerdots:1.0.0] /Users/alex/.gradle/caches/transforms-3/c50dd5bb9b650c7fa4ee1ee39cd800ac/transformed/jetified-viewpagerdots-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:3.2.1] /Users/alex/.gradle/caches/transforms-3/f278273ce405cf0252586f55d88e4c02/transformed/jetified-core-3.2.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-alpha2] /Users/alex/.gradle/caches/transforms-3/744786eb34043afc0ba7ef362b6a54a1/transformed/constraintlayout-2.1.0-alpha2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alex/.gradle/caches/transforms-3/e6c3db6cef924e68aed63ced02885c5d/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/alex/.gradle/caches/transforms-3/b2b4e0894208396ba1857b4ff7659253/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/alex/.gradle/caches/transforms-3/e56e92062db9c295a8fb9d2871f1d519/transformed/jetified-library-1.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/alex/.gradle/caches/transforms-3/32dd742e3beacee94afd81072d3f8979/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex/.gradle/caches/transforms-3/9e1d2430edcb7de444bebba3e4b6ee74/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alex/.gradle/caches/transforms-3/ee44bfb1275c61ca8f4ed1662b1f7ef1/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/alex/.gradle/caches/transforms-3/e5cdad769b7f3916950735a258da8ab6/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/alex/.gradle/caches/transforms-3/52fb8714a6dae48767a2aec207091622/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex/.gradle/caches/transforms-3/08a6bbc2e95bf279d5d3ce67eb3a7984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex/.gradle/caches/transforms-3/77fc8fe32040fdb46120d6436d4025df/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex/.gradle/caches/transforms-3/f2e1db33e40f672064e4fcfc694f7cbf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex/.gradle/caches/transforms-3/ef4af0c94adb532179e8ed41ab48e3a2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/alex/.gradle/caches/transforms-3/3b09bd7b4929ed1255aafca199ff984e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex/.gradle/caches/transforms-3/316666699732b3e6b8234507e4ec78a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex/.gradle/caches/transforms-3/3a701f2670fc3c0d6042634a1fc360f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex/.gradle/caches/transforms-3/e1c6588fefdc987c3e48455275e97e6c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/alex/.gradle/caches/transforms-3/f82b3d72285d6a3f6a8b915a4441fa23/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alex/.gradle/caches/transforms-3/2499262b3d9c31f7644a81990540111f/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex/.gradle/caches/transforms-3/163a6305b255a22ff11f4dc88dc1eeae/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/alex/.gradle/caches/transforms-3/b7efbd2c7eb199f7c6ae811f66f682d9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/alex/.gradle/caches/transforms-3/a6330ff7af3a4e9c764707f5a26029dd/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex/.gradle/caches/transforms-3/ea6a9ae4f01233ba32c77d8ead9b8589/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex/.gradle/caches/transforms-3/73a4eae899e623555e2ead1319e6211c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex/.gradle/caches/transforms-3/0a270f33330f7f0203715a9679b2baba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alex/.gradle/caches/transforms-3/a3fa1a25f1b387f4a5ea5803f5a24576/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alex/.gradle/caches/transforms-3/a325816b756cd0cfcdb87c8cff7f0388/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.afollestad.material-dialogs:color:3.1.0] /Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:color:3.1.0] /Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:core:3.2.1] /Users/alex/.gradle/caches/transforms-3/f278273ce405cf0252586f55d88e4c02/transformed/jetified-core-3.2.1/AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:core:3.2.1] /Users/alex/.gradle/caches/transforms-3/f278273ce405cf0252586f55d88e4c02/transformed/jetified-core-3.2.1/AndroidManifest.xml:11:5-47
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-alpha2] /Users/alex/.gradle/caches/transforms-3/744786eb34043afc0ba7ef362b6a54a1/transformed/constraintlayout-2.1.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-alpha2] /Users/alex/.gradle/caches/transforms-3/744786eb34043afc0ba7ef362b6a54a1/transformed/constraintlayout-2.1.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/alex/.gradle/caches/transforms-3/e56e92062db9c295a8fb9d2871f1d519/transformed/jetified-library-1.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/alex/.gradle/caches/transforms-3/e56e92062db9c295a8fb9d2871f1d519/transformed/jetified-library-1.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/alex/.gradle/caches/transforms-3/32dd742e3beacee94afd81072d3f8979/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/alex/.gradle/caches/transforms-3/32dd742e3beacee94afd81072d3f8979/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alex/.gradle/caches/transforms-3/ee44bfb1275c61ca8f4ed1662b1f7ef1/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alex/.gradle/caches/transforms-3/ee44bfb1275c61ca8f4ed1662b1f7ef1/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/alex/.gradle/caches/transforms-3/f82b3d72285d6a3f6a8b915a4441fa23/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/alex/.gradle/caches/transforms-3/f82b3d72285d6a3f6a8b915a4441fa23/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex/.gradle/caches/transforms-3/163a6305b255a22ff11f4dc88dc1eeae/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex/.gradle/caches/transforms-3/163a6305b255a22ff11f4dc88dc1eeae/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.lucasrodrigues.a3dmarkertest.MainActivity
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:16:13-49
+	android:exported
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:25:9-27:55
+	android:value
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml:26:13-58
+uses-sdk
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/alex/.gradle/caches/transforms-3/2ec13bb18986eca1b1a72589a5114b02/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/alex/.gradle/caches/transforms-3/2ec13bb18986eca1b1a72589a5114b02/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:color:3.1.0] /Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:color:3.1.0] /Users/alex/.gradle/caches/transforms-3/54729edf2977fd16e70cc9249216ac05/transformed/jetified-color-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad:viewpagerdots:1.0.0] /Users/alex/.gradle/caches/transforms-3/c50dd5bb9b650c7fa4ee1ee39cd800ac/transformed/jetified-viewpagerdots-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad:viewpagerdots:1.0.0] /Users/alex/.gradle/caches/transforms-3/c50dd5bb9b650c7fa4ee1ee39cd800ac/transformed/jetified-viewpagerdots-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:3.2.1] /Users/alex/.gradle/caches/transforms-3/f278273ce405cf0252586f55d88e4c02/transformed/jetified-core-3.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:3.2.1] /Users/alex/.gradle/caches/transforms-3/f278273ce405cf0252586f55d88e4c02/transformed/jetified-core-3.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-alpha2] /Users/alex/.gradle/caches/transforms-3/744786eb34043afc0ba7ef362b6a54a1/transformed/constraintlayout-2.1.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-alpha2] /Users/alex/.gradle/caches/transforms-3/744786eb34043afc0ba7ef362b6a54a1/transformed/constraintlayout-2.1.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alex/.gradle/caches/transforms-3/e6c3db6cef924e68aed63ced02885c5d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alex/.gradle/caches/transforms-3/e6c3db6cef924e68aed63ced02885c5d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/alex/.gradle/caches/transforms-3/b2b4e0894208396ba1857b4ff7659253/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/alex/.gradle/caches/transforms-3/b2b4e0894208396ba1857b4ff7659253/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/alex/.gradle/caches/transforms-3/e56e92062db9c295a8fb9d2871f1d519/transformed/jetified-library-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/alex/.gradle/caches/transforms-3/e56e92062db9c295a8fb9d2871f1d519/transformed/jetified-library-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/alex/.gradle/caches/transforms-3/32dd742e3beacee94afd81072d3f8979/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/alex/.gradle/caches/transforms-3/32dd742e3beacee94afd81072d3f8979/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex/.gradle/caches/transforms-3/9e1d2430edcb7de444bebba3e4b6ee74/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alex/.gradle/caches/transforms-3/9e1d2430edcb7de444bebba3e4b6ee74/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alex/.gradle/caches/transforms-3/ee44bfb1275c61ca8f4ed1662b1f7ef1/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alex/.gradle/caches/transforms-3/ee44bfb1275c61ca8f4ed1662b1f7ef1/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/alex/.gradle/caches/transforms-3/e5cdad769b7f3916950735a258da8ab6/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/alex/.gradle/caches/transforms-3/e5cdad769b7f3916950735a258da8ab6/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/alex/.gradle/caches/transforms-3/52fb8714a6dae48767a2aec207091622/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/alex/.gradle/caches/transforms-3/52fb8714a6dae48767a2aec207091622/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex/.gradle/caches/transforms-3/08a6bbc2e95bf279d5d3ce67eb3a7984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alex/.gradle/caches/transforms-3/08a6bbc2e95bf279d5d3ce67eb3a7984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex/.gradle/caches/transforms-3/77fc8fe32040fdb46120d6436d4025df/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alex/.gradle/caches/transforms-3/77fc8fe32040fdb46120d6436d4025df/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex/.gradle/caches/transforms-3/f2e1db33e40f672064e4fcfc694f7cbf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alex/.gradle/caches/transforms-3/f2e1db33e40f672064e4fcfc694f7cbf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex/.gradle/caches/transforms-3/ef4af0c94adb532179e8ed41ab48e3a2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alex/.gradle/caches/transforms-3/ef4af0c94adb532179e8ed41ab48e3a2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/alex/.gradle/caches/transforms-3/3b09bd7b4929ed1255aafca199ff984e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/alex/.gradle/caches/transforms-3/3b09bd7b4929ed1255aafca199ff984e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex/.gradle/caches/transforms-3/316666699732b3e6b8234507e4ec78a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alex/.gradle/caches/transforms-3/316666699732b3e6b8234507e4ec78a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex/.gradle/caches/transforms-3/3a701f2670fc3c0d6042634a1fc360f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alex/.gradle/caches/transforms-3/3a701f2670fc3c0d6042634a1fc360f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex/.gradle/caches/transforms-3/e1c6588fefdc987c3e48455275e97e6c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alex/.gradle/caches/transforms-3/e1c6588fefdc987c3e48455275e97e6c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/alex/.gradle/caches/transforms-3/b6824d1fa135f5cde338f841e81d0e4c/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/alex/.gradle/caches/transforms-3/f82b3d72285d6a3f6a8b915a4441fa23/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/alex/.gradle/caches/transforms-3/f82b3d72285d6a3f6a8b915a4441fa23/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alex/.gradle/caches/transforms-3/2499262b3d9c31f7644a81990540111f/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alex/.gradle/caches/transforms-3/2499262b3d9c31f7644a81990540111f/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex/.gradle/caches/transforms-3/163a6305b255a22ff11f4dc88dc1eeae/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alex/.gradle/caches/transforms-3/163a6305b255a22ff11f4dc88dc1eeae/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/alex/.gradle/caches/transforms-3/b7efbd2c7eb199f7c6ae811f66f682d9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/alex/.gradle/caches/transforms-3/b7efbd2c7eb199f7c6ae811f66f682d9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/alex/.gradle/caches/transforms-3/a6330ff7af3a4e9c764707f5a26029dd/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/alex/.gradle/caches/transforms-3/a6330ff7af3a4e9c764707f5a26029dd/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex/.gradle/caches/transforms-3/ea6a9ae4f01233ba32c77d8ead9b8589/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alex/.gradle/caches/transforms-3/ea6a9ae4f01233ba32c77d8ead9b8589/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex/.gradle/caches/transforms-3/73a4eae899e623555e2ead1319e6211c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alex/.gradle/caches/transforms-3/73a4eae899e623555e2ead1319e6211c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex/.gradle/caches/transforms-3/0a270f33330f7f0203715a9679b2baba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alex/.gradle/caches/transforms-3/0a270f33330f7f0203715a9679b2baba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alex/.gradle/caches/transforms-3/a3fa1a25f1b387f4a5ea5803f5a24576/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alex/.gradle/caches/transforms-3/a3fa1a25f1b387f4a5ea5803f5a24576/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alex/.gradle/caches/transforms-3/a325816b756cd0cfcdb87c8cff7f0388/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alex/.gradle/caches/transforms-3/a325816b756cd0cfcdb87c8cff7f0388/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/alex/.gradle/caches/transforms-3/3da5d67dc4af47f520bea03d56600aee/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alex/.gradle/caches/transforms-3/75d7258ead366e00ec77f823820a3f5a/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alex/.gradle/caches/transforms-3/96e0f45eca7c38452724efa67ff72e35/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alex/.gradle/caches/transforms-3/f3e8f95a610510ff1903e05e3f3513d7/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
