@@ -4,13 +4,13 @@ import com.google.android.gms.maps.model.LatLng
 
 interface LatLngInterpolator {
 
-    fun interpolate(fraction: Float, a: LatLng, b: LatLng): LatLng
+    fun interpolate(fraction: Float, from: LatLng, to: LatLng): LatLng
 
     class Linear {
         companion object : LatLngInterpolator {
-            override fun interpolate(fraction: Float, a: LatLng, b: LatLng): LatLng {
-                val lat = (b.latitude - a.latitude) * fraction + a.latitude
-                val lng = (b.longitude - a.longitude) * fraction + a.longitude
+            override fun interpolate(fraction: Float, from: LatLng, to: LatLng): LatLng {
+                val lat = (to.latitude - from.latitude) * fraction + from.latitude
+                val lng = (to.longitude - from.longitude) * fraction + from.longitude
                 return LatLng(lat, lng)
             }
         }

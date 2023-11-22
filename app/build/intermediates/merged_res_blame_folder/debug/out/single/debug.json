@@ -28,6 +28,10 @@
         "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/merged_res/debug/drawable_ship_body.png.flat",
+        "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/drawable/ship_body.png"
+    },
+    {
         "merged": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "/Users/alex/workspace/android/Untitled/animateMarker/Android-Google-Maps-3D-markers/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
